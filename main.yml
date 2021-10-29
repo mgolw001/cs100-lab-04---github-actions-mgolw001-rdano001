@@ -1,0 +1,7 @@
+
+on:
+  push:
+    branches: [ main, mgolw001/ci_setup ]
+  pull_request:
+    branches: [ main ]
+
